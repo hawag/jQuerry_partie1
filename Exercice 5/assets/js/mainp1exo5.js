@@ -1,5 +1,6 @@
 $(document).ready(function() {
-    $("ul>li").css('color', 'red');
+    // mettre tous les LI enfant de UL en rouge 
+    $("ul").children().css('color', 'red');
 
 
 })

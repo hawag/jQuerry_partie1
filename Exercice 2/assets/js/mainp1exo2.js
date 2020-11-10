@@ -3,6 +3,7 @@
 $(document).ready(function() {
 $('#text').show();
 
+
 });
 
 /* DEUXIEME SOLUTION POUR FAIRE APPARAITRE LE PARAGRAPHE
